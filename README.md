@@ -7,8 +7,3 @@ Profissional website test
 The controle of the tasks is going to be in GitHub
 
 ## Ícones
-
-- :package: new funcionalityes
-- :beatle: bugs corrections
-- :checkered_flag: release
-- :up: update
