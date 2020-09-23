@@ -1,13 +1,14 @@
 # meu_site2
-teste site profissional
+
+Profissional website test
 
 ## Tarefas
 
-O controle das tarefas desse projeto será realizado no GitHub
+The controle of the tasks is going to be in GitHub
 
 ## Ícones
 
-:package: nova funcionalidade
-:up: atualização
-:beatle: correção de bug
-:checkered_flag: release
+- :package: new funcionalityes
+- :beatle: bugs corrections
+- :checkered_flag: release
+- :up: update
